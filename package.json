@@ -1,0 +1,23 @@
+{
+  "name": "shayna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwi-joko/shayna.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwi-joko/shayna/issues"
+  },
+  "homepage": "https://github.com/dwi-joko/shayna#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
